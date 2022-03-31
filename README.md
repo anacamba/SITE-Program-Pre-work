@@ -7,7 +7,7 @@ Submitted by: **Ana Camba**
 
 Time spent: **7** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://knowing-confirmed-desk.glitch.me/)
 
 ## Required Functionality
 
