@@ -1,4 +1,3 @@
-# SITE-Program-Pre-work
 # Pre-work - *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
@@ -102,4 +101,3 @@ If I had more time to work on this project I will add a timer on the screen and 
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
