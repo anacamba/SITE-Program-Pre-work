@@ -7,7 +7,7 @@ Submitted by: **Ana Camba**
 
 Time spent: **7** hours spent in total
 
-Link to project: (https://knowing-confirmed-desk.glitch.me/)
+Link to project: (https://glitch.com/edit/#!/knowing-confirmed-desk)
 
 ## Required Functionality
 
@@ -48,14 +48,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 N/A
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 [Developing a clear and well-defined program logic is a crucial step in designing a programming project. While creating this submission I encountered many challenges along the way. Understanding the game logic behind the “function guess (btn)”  was one of those challenges. The guess function had a parameter representing which button was pressed. Inside the function I first had to check whether the game was active (has the user pressed Start?). If not, I had to break out of this function using the return command. 
+
 After figuring out the first section I then proceeded to do a nested conditional statement to consider each possible case for the user's guess. I guided myself from the flow chart in the instructions. In here I had to consider each possibility: 
-                       1) If the guess was wrong the game will automatically finished and show the user the message “GAME OVER”
-                       2)If the guess was correct then there were two possibilities:
-                                  a)If the turn was not over the guess counter had to increment
-                                  b)If the turn was over I had to check if it was the last round:
-                                         - If it was the last round, the user will automatically win the game and the game will display a message “GAME OVER: You won”
-                                          - If the game is not over the next sequence will be played.]
+
+1) If the guess was wrong the game will automatically finished and show the user the message “GAME OVER”
+2)If the guess was correct then there were two possibilities: a)If the turn was not over the guess counter had to increment or b)If the turn was over I had to check if it was the last round: - If it was the last round, the user will automatically win the game and the game will display a message “GAME OVER: You won”  - If the game is not over the next sequence will be played.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [After doing the submission and being familiar with the game I wonder what steps are the ideal to  take to optimize the site’s loading time? Having familiarity with different websites I know the more features it has the more difficult it is for a website to support them. So, since our program is a game I wanted to know what would be the best way to optimize the website so that if I were to add more features the website can handle the data.
