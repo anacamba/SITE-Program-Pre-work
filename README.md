@@ -69,7 +69,7 @@ After figuring out the first section I then proceeded to do a nested conditional
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-[After doing the submission and being familiar with the game I wonder what steps are the ideal to  take to optimize the site’s loading time? Having familiarity with different websites I know the more features it has the more difficult it is for a website to support them. So, since our program is a game I wanted to know what would be the best way to optimize the website so that if I were to add more features the website can handle the data.
+[After doing the submission and being familiar with the game I wonder what steps are the ideal to  take to optimize the site’s loading time? Having familiarity with different websites I know the more features it has the more difficult it is for a website to support them. So, since our program is a game I wanted to know what would be the best way to optimize the website so that if I were to add more features the website could handle the data.
 Also, as a computer engineering student passionate about creating accessible resources through technology, I wanted to know what is the best way to approach web accessibility? What is the best way to make sure one’s websites and applications are accessible to all kinds of users?
 ]
 
